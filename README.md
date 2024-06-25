@@ -70,6 +70,8 @@ Software developer with a 10+ years experience in IT. Lawyer since 2013. Current
 <!-- start Development Tools & Frameworks section -->
 <details>
 <summary><b>Last IT Job: Stella Systems LTD, Kharkiv, Ukraine :point_right:</b></summary> 
+
+### 
   
 Responsibilities: development of an enterprise-level BI solution including front-end application and back-end services providing data-access and analysis. Design and implementation of all layers of the application: data storage and access (MS SQL Server), business logic (C#), configuration (XML), Web UI (Asp.Net, MVC, JavaScript), Windows services and internal tools.
 Last several years worked in Sustaining Release Team. The main responsibility was to provide quick solutions to critical users/payers CRs, including critical bugs fixes, performance issues, new features. Last successfully completed tasks from my backlog: 
@@ -81,6 +83,8 @@ Last several years worked in Sustaining Release Team. The main responsibility wa
   
   </details>
 <!-- end Development Tools & Frameworks section -->
+
+### 
 
 Result-oriented, self-motivated, good team member with great problem-solving skills.
 
