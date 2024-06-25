@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Software developer with a 10+ years experience in IT. Lawyer since 2013. Currently learning Java at [DCI](https://digitalcareerinstitute.org/)  to go back to IT. 
 
-### Technical Summary
+### 
 
 <!-- start Knowledge & Skills section -->
 <details>
@@ -88,12 +88,13 @@ Last several years worked in Sustaining Release Team. The main responsibility wa
 
 Result-oriented, self-motivated, good team member with great problem-solving skills.
 
+### 
+
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/-CSHARP-black?logo=csharp&style=social)&nbsp;&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-black?logo=dotnet&style=social)&nbsp;&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-black?logo=oracle&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-SQLServer-black?logo=mssql&style=social)&nbsp;&nbsp;
-![SQLServer](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![SQLServer](https://img.shields.io/badge/-MSSQL-black?logo=mssql&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
