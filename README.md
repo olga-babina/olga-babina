@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 Currently learning Java at [DCI](https://digitalcareerinstitute.org/). 
 
-
+-->
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=olgaDCI&count_private=true&show_icons=true&include_all_commits=true)
 <!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgaDCI&hide=TeX&layout=compact) -->
